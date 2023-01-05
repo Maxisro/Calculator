@@ -8,13 +8,13 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	/* background: #0f0c29; */
-	background: whitesmoke;
-	/* background: linear-gradient(to right, #24243e, #302b63, #0f0c29); */
+	background: #0f0c29;
+	/* background: whitesmoke; */
+	background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
 }
 
 .calculator {
-	background: white;
+	background: rgba(237, 100, 2, 0.905);
 	width: 400px;
 	border-radius: 12px;
 	box-shadow: 0 5px 30px -5px rgba(0, 0, 0, .6);
